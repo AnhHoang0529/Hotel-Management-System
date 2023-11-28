@@ -2,6 +2,27 @@
 
 This is the repository for Final Project of IS207 (Web Application Development) of University of Information Technology (UIT). In this project, we applied the skills of HTML, CSS, PHP, MYSQL, ... to build a simple hotel resource management system. The concept of hotel resources in this topic includes staff, customers, facilities, and hotel services.
 
+# How to Install
+
+<ol>
+  <li>Clone the repo  <code>git clone https://github.com/AnhHoang0529/Hotel-Management.git</code> or download code in zip file</li>
+  <li>Open the phpMyAdmin and create a database <code>myhotel</code></li>
+  <li>Import <code>myhotel.sql</code> file in folder <code>Data</code></li>
+  <li>Run the project</li>
+  <ul>
+    <li>Homepage: <code>localhost/Hotel/index.php</code></li>
+    <li>Managment: <code>localhost/Hotel/admin/login.php</code></li>
+    <ul>
+      <li>Account for admin:</li>
+      <code>Username: Admin</code>
+      <code>Password: admin123</code>
+      <li>Account for staff:</li>
+      <code>Username: Reception1</code>
+      <code>Password: reception1</code>
+    </ul>
+  </ul>
+</ol>
+
 # Demo
 <h3>Homepage</h3>
 
