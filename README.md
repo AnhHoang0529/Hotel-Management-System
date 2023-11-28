@@ -2,6 +2,19 @@
 
 This is the repository for Final Project of IS207 (Web Application Development) of University of Information Technology (UIT). In this project, we applied the skills of HTML, CSS, PHP, MYSQL, ... to build a simple hotel resource management system. The concept of hotel resources in this topic includes staff, customers, facilities, and hotel services.
 
+# Features
+
+<ul>
+  <li>Homepage</li>
+  <li>Login</li>
+  <li>Book room</li>
+  <li>Receive room</li>
+  <li>Checkout & print invoice</li>
+  <li>Manage room & room type</li>
+  <li>Manage account</li>
+  <li>Manage customer</li>
+</ul>
+
 # How to Install
 
 <ol>
