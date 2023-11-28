@@ -18,10 +18,12 @@ This is the repository for Final Project of IS207 (Web Application Development) 
 # How to Install
 
 <ol>
-  <li>Clone the repo  <code>git clone https://github.com/AnhHoang0529/Hotel-Management.git</code> or download code in zip file</li>
-  <li>Open the phpMyAdmin and create a database <code>myhotel</code></li>
-  <li>Import <code>myhotel.sql</code> file in folder <code>Data</code></li>
-  <li>Run the project</li>
+  <li>Download & Install: XAMPP in <code>C:\xampp</code> (default)</li>
+  <li>Clone the repo  <code>git clone https://github.com/AnhHoang0529/Hotel-Management.git</code> or download code in zip file in <code>C:\xampp\htdocs</code></li>
+  <li>Run XAMPP and start "Apache" & "MySQL"</li>
+  <li>Open link phpMyAdmin <code>localhost/phpmyadmin/</code> and create a database <code>myhotel</code></li>
+  <li>After clicking database, click import and select the file <code>myhotel.sql</code> in folder <code>Data</code></li>
+  <li>Run the project: Open the link</li>
   <ul>
     <li>Homepage: <code>localhost/Hotel/index.php</code></li>
     <li>Managment: <code>localhost/Hotel/admin/login.php</code></li>
